@@ -1,0 +1,14 @@
+.item {
+    width: 31.5%;
+    float: left;
+    background-color: rgb(237, 46, 215);
+    color: rgb(0, 0, 0);
+    margin: 10pt;
+    text-align: center;
+}
+.cart,.myCart {
+    width: 100%;
+    float: left;
+    color: rgb(240, 0, 0);
+    text-align: center;
+}
